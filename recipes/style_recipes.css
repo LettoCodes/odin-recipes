@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    font-weight: black;
+}
+
+img {
+    height: auto;
+    width: 50%;
+}
+
+h2 {
+    font-weight: black;
+}
+
+ul, ol {
+    list-style-position: inside;
+    display: inline-block;
+}
+
+li {
+    display: list-item;
+    text-align: justify;
+}

@@ -1,12 +1,12 @@
 body {
     background-color: antiquewhite;
+    font-family: sans-serif, Arial, Helvetica;
 }
 
 h1 {
     background-color: blanchedalmond;
     text-align: left;
     font-weight: black;
-    font-family: sans-serif, Arial, Helvetica;
 }
 
 .container {
